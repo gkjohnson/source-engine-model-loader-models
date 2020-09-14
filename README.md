@@ -1,6 +1,6 @@
 # Source Engine Model Loader Demo Models
 
-Repo of demo models to demo source-engine-model-loader project.
+Repo of demo models to demo [source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader) project.
 
 Models are from [SFMLab](https://SFMLab.com).
 
