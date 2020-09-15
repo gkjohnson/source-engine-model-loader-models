@@ -1,0 +1,10 @@
+// ### This basic VMT was written based on the D:\tools\python\templateStrings.pyc script ###
+"VertexLitGeneric"
+{
+	$baseTexture "models/player/coop_bots/ball_bot_shadows"
+
+	"$surfaceprop" "metal"
+
+	"$translucent" 1
+	"$nodecal" "1"
+}
