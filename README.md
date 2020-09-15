@@ -2,7 +2,7 @@
 
 Repo of demo models to demo [source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader) project.
 
-Models are from [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) and subject to the respective terms..
+Models are from [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) and subject to the respective terms.
 
 ## License Information
 
